@@ -1,0 +1,15 @@
+{
+    "tasks": [{
+            "id": 1,
+            "text": "Insurance Pay",
+            "day": "12th Dec at 12:00PM",
+            "reminder": true
+        },
+        {
+            "id": 2,
+            "text": "Seminar For React",
+            "day": "28th Dec at 10:30AM",
+            "reminder": true
+        }
+    ]
+}
